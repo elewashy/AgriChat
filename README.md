@@ -10,7 +10,7 @@ Here’s an updated section that includes links to your team members' GitHub pro
 
 We are a dedicated team of AI engineers, web developers, and agriculture experts who collaborated to create **AgriChat**. Meet the team:
 
-- **[ُMohamed Elewashy](https://github.com/elewashy)** 
+- **[Mohamed El-Ewashy](https://github.com/elewashy)** 
 - **[Abdulrahman-Ayman-Farid](https://github.com/Abdulrahman-Ayman-Farid)** 
 - **[Abdelrahman Mohamed](https://github.com/beedo239e)** 
 - **[Mazen Ehab](#)** 
