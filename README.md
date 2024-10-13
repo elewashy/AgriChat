@@ -41,13 +41,9 @@ To run AgriChat locally, follow these steps:
     ```bash
     cd AgriChat
     ```
-3. **Install dependencies**:
+3. **Start the chatbot**:
     ```bash
-    npm install
-    ```
-4. **Start the chatbot**:
-    ```bash
-    npm start
+Open the HTML file: Simply open the index.html file in your browser to start interacting with the chatbot interface.
     ```
 
 ## Usage
@@ -60,7 +56,6 @@ AgriChat will reply with practical advice to help you manage these challenges ef
 
 ## Technologies
 AgriChat was built using a combination of modern technologies, including:
-- **Node.js**: Backend development.
 - **Gemini API**: For natural language processing and predictive analysis.
 - **HTML/CSS/JavaScript**: Frontend development for the chatbot interface.
 
