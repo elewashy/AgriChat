@@ -38,6 +38,42 @@ We are a dedicated team of AI engineers, web developers, and agriculture experts
 - 📊 **Detailed Insights**: Provides comprehensive analysis based on climate data.
 - 🌱 **Agricultural Recommendations**: Tailored advice for farmers on how to optimize crop production.
 - 🔄 **Bilingual Support**: Responds in both Arabic and English based on the user’s input language.
+Here’s a list of features for your AgriChat application based on the provided script:
+
+### Features of AgriChat
+
+1. **User Interaction**:
+   - Users can send messages and receive responses related to agricultural predictions, including droughts, floods, and soil moisture levels.
+
+2. **Typing Effect**:
+   - The chatbot simulates a typing effect while generating responses, providing a more engaging user experience.
+
+3. **Message History**:
+   - Keeps track of the conversation history, allowing users to view previous messages within the chat.
+
+4. **Theme Toggle**:
+   - Users can switch between light and dark modes, with the preference saved in local storage for a personalized experience.
+
+5. **Loading Animation**:
+   - Displays a loading animation while the chatbot is generating a response, enhancing user feedback.
+
+6. **Message Copying**:
+   - Users can easily copy messages to the clipboard for reference or sharing.
+
+7. **Local Storage Support**:
+   - Saves chat history and theme preferences in the browser’s local storage, enabling users to resume their conversations even after refreshing the page.
+
+8. **Suggestions Feature**:
+   - Users can click on predefined suggestions to quickly send common queries without typing.
+
+9. **Chat Deletion**:
+   - Provides an option to delete all chat history from local storage with a confirmation prompt.
+
+10. **Responsive Design**:
+    - The chat interface adapts to various screen sizes, ensuring a seamless experience on both desktop and mobile devices.
+
+11. **Error Handling**:
+    - Displays error messages in case of API request failures, ensuring users are informed of any issues.
 
 ## How It Works
 AgriChat uses climate and soil moisture datasets to predict potential agricultural risks. The chatbot analyzes extensive data sets related to:
