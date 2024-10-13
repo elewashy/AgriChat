@@ -3,6 +3,13 @@
 **AgriChat** is an AI-powered chatbot designed to assist farmers by providing accurate predictions and valuable insights into climate-related challenges such as droughts, floods, and soil moisture levels. Leveraging advanced data analysis, AgriChat helps farmers make informed decisions to enhance crop productivity and minimize the risks associated with extreme weather events.
 
 ## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
