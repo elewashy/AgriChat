@@ -7,7 +7,7 @@ const deleteChatButton = document.querySelector("#delete-chat-button");
 // State variables
 let userMessage = null;
 let isResponseGenerating = false;
-let messageHistory = []; // مصفوفة لتخزين الرسائل
+let messageHistory = [];  // Array to store messages
 
 // API configuration
 const API_KEY = "AIzaSyBQVJNOfm8f3sp_tEEjrbSIW-FC4aibJKM"; // Your API key here
@@ -79,10 +79,10 @@ const showTypingEffect = (text, textElement, incomingMessageDiv) => {
 const generateAPIResponse = async (incomingMessageDiv) => {
   const textElement = incomingMessageDiv.querySelector(".text"); // Getting text element
 
-  // بروميت مخصص للتنبؤات الزراعية المتعلقة بالجفاف والفيضانات ورطوبة التربة
+  // Custom prompt for agricultural predictions related to droughts, floods, and soil moisture
   const farmingPrompt = "You are AgriChat, an advanced agricultural assistant. Your expertise lies in analyzing extensive climate data to provide accurate predictions and recommendations regarding climate impacts on agriculture, specifically concerning droughts, floods, and soil moisture levels. You should respond as if you're thoughtfully considering the data, offering deep insights and logical conclusions. Always provide detailed analysis and precise predictions, reflecting a careful assessment of the risks involved.";
 
-  // دمج الرسائل السابقة مع الرسالة الحالية
+  // Combine previous messages with the current one
   const history = messageHistory.map(msg => `User: ${msg}`).join("\n");
   const userPrompt = `${farmingPrompt}\nPrevious Messages:\n${history}\nUser Question: ${userMessage}`;
 
@@ -106,9 +106,9 @@ const generateAPIResponse = async (incomingMessageDiv) => {
     const apiResponse = data?.candidates[0].content.parts[0].text.replace(/\*\*(.*?)\*\*/g, '$1');
     showTypingEffect(apiResponse, textElement, incomingMessageDiv); // Show typing effect
 
-    // تحديث سجل الرسائل بعد الحصول على الرد
-    messageHistory.push(userMessage); // إضافة الرسالة الحالية
-    messageHistory.push(apiResponse); // إضافة رد API
+    // Update message history after receiving the response
+    messageHistory.push(userMessage); // Add the current message
+    messageHistory.push(apiResponse); // Add the API response
   } catch (error) { // Handle error
     isResponseGenerating = false;
     textElement.innerText = error.message;
