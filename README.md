@@ -23,6 +23,7 @@ We are a dedicated team of AI engineers, web developers, and agriculture experts
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Features of AgriChat](#features-of-agrichat)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
 - [Usage](#usage)
