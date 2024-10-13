@@ -40,7 +40,7 @@ We are a dedicated team of AI engineers, web developers, and agriculture experts
 - 🔄 **Bilingual Support**: Responds in both Arabic and English based on the user’s input language.
 Here’s a list of features for your AgriChat application based on the provided script:
 
-### Features of AgriChat
+## Features of AgriChat
 
 1. **User Interaction**:
    - Users can send messages and receive responses related to agricultural predictions, including droughts, floods, and soil moisture levels.
