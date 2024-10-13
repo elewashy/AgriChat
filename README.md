@@ -18,7 +18,7 @@ We are a dedicated team of AI engineers, web developers, and agriculture experts
 
 ## Preview
 
-![Preview the AgriChat](https://raw.githubusercontent.com/elewashy/AgriChat/main/Preview.png)
+![Preview the AgriChat](https://raw.githubusercontent.com/elewashy/AgriChat/main/assets/images/Preview.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
