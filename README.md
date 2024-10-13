@@ -14,7 +14,7 @@ We are a dedicated team of AI engineers, web developers, and agriculture experts
 - **[Abdulrahman-Ayman-Farid](https://github.com/Abdulrahman-Ayman-Farid)** 
 - **[Abdelrahman Mohamed](https://github.com/beedo239e)** 
 - **[Mazen Ehab](#)** 
-- **[Sharaf](#)** 
+- **[Yousef Sharaf](#)** 
 
 # Test AgriChat V1
 
