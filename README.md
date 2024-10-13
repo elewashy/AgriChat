@@ -96,9 +96,9 @@ To run AgriChat locally, follow these steps:
     cd AgriChat
     ```
 3. **Start the chatbot**:
-    ```bash
-    Open the HTML file: index.html
-    ```
+
+    - Open the HTML file: index.html
+
 
 ## Usage
 Once the chatbot is running, you can interact with it via a simple web interface. Input your agricultural questions, and AgriChat will respond with detailed analysis and predictions regarding climate and soil moisture conditions. For example, ask questions like:
