@@ -122,7 +122,7 @@ const generateAPIResponse = async (incomingMessageDiv) => {
 // Show a loading animation while waiting for the API response
 const showLoadingAnimation = () => {
   const html = `<div class="message-content">
-                  <img class="avatar" src="./assets/images/logo.png" alt="Agrichat avatar">
+                  <img class="avatar" src="./assets/images/chat.png" alt="Agrichat avatar">
                   <p class="text"></p>
                   <div class="loading-indicator">
                     <div class="loading-bar"></div>
