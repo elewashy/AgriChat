@@ -14,7 +14,11 @@ We are a dedicated team of AI engineers, web developers, and agriculture experts
 
 # Test AgriChat V1
 
-[Preview the Website](https://agrichat.vercel.app/)
+[Preview the AgriChat](https://agrichat.vercel.app/)
+
+## Preview
+
+![Preview the AgriChat](https://raw.githubusercontent.com/elewashy/AgriChat/main/Preview.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
