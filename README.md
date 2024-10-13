@@ -9,10 +9,10 @@ We are a dedicated team of AI engineers, web developers, and agriculture experts
 - **[Mohamed El-Ewashy](https://github.com/elewashy)** 
 - **[Abdulrahman-Ayman-Farid](https://github.com/Abdulrahman-Ayman-Farid)** 
 - **[Abdelrahman Mohamed](https://github.com/beedo239e)** 
-- **[Mazen Ehab](#)** 
-- **[Yousef Sharaf](#)** 
+- **[Mazen Ehab](https://github.com/MazenEhabGamal)** 
+- **[Yousef Sharaf](https://github.com/IISharafII)** 
 
-# Test AgriChat V1
+# Test AgriChat 
 
 [Preview the AgriChat](https://agrichat.vercel.app/)
 
