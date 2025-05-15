@@ -11,7 +11,7 @@ let messageHistory = [];  // Array to store messages
 
 // API configuration
 const API_KEY = "AIzaSyBmI6XPsnkQ37t58c2Y2EUQ7SkOKsWlBik"; // Your API key here
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${API_KEY}`;
+const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 // Load theme and chat data from local storage on page load
 const loadDataFromLocalstorage = () => {
